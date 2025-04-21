@@ -1,0 +1,6 @@
+
+.vs/AVIFiltering/v16/Server/sqlite3/storage.ide-shm
+.vs/AVIFiltering/v16/Server/sqlite3/storage.ide-wal
+bin
+obj
+bin/Debug/AVIFiltering.exe
